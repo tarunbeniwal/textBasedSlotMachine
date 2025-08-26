@@ -19,10 +19,10 @@ A console-based slot machine game written in Python. Players can deposit virtual
 1. Clone this repo:
    
 2. Navigate into repo directory
-   cd python-slot-machine
+   '''cd python-slot-machine'''
    
 3. Run the game
-   python slot_machine.py
+   '''python slot_machine.py'''
    
 4. Follow on-screen prompts to deposit money, place bets, and spin the slot machine.
 

@@ -17,16 +17,18 @@ A console-based slot machine game written in Python. Players can deposit virtual
 
 ## How to Run
 1. Clone this repo:
+   ```bash
+   git clone <repo-url>
    
 2. Navigate into repo directory
-   '''cd python-slot-machine'''
+   ```cd python-slot-machine```
    
 3. Run the game
-   '''python slot_machine.py'''
+   ```python slot_machine.py```
    
 4. Follow on-screen prompts to deposit money, place bets, and spin the slot machine.
 
-5. Press q to quit the game.
+5. Press ```q``` to quit the game.
 
 
 # Project Snapshots
@@ -35,10 +37,10 @@ A console-based slot machine game written in Python. Players can deposit virtual
 
 # Learning / Takeaways
 
--Practiced using Python functions, loops, and conditional statements
+- Practiced using Python functions, loops, and conditional statements
 
--Learned to handle user input and validate data
+- Learned to handle user input and validate data
 
--Implemented basic game logic and randomization
+- Implemented basic game logic and randomization
 
--Gained experience creating a simple interactive console application
+- Gained experience creating a simple interactive console application
